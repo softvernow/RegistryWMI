@@ -1,0 +1,10 @@
+C:\Users\efortes\source\repos\RegistryWMI\RegistryWMI\bin\Debug\RegistryWMI.exe.config
+C:\Users\efortes\source\repos\RegistryWMI\RegistryWMI\bin\Debug\RegistryWMI.exe
+C:\Users\efortes\source\repos\RegistryWMI\RegistryWMI\bin\Debug\RegistryWMI.pdb
+C:\Users\efortes\source\repos\RegistryWMI\RegistryWMI\obj\Debug\RegistryWMI.csprojAssemblyReference.cache
+C:\Users\efortes\source\repos\RegistryWMI\RegistryWMI\obj\Debug\RegistryWMI.Form1.resources
+C:\Users\efortes\source\repos\RegistryWMI\RegistryWMI\obj\Debug\RegistryWMI.Properties.Resources.resources
+C:\Users\efortes\source\repos\RegistryWMI\RegistryWMI\obj\Debug\RegistryWMI.csproj.GenerateResource.cache
+C:\Users\efortes\source\repos\RegistryWMI\RegistryWMI\obj\Debug\RegistryWMI.csproj.CoreCompileInputs.cache
+C:\Users\efortes\source\repos\RegistryWMI\RegistryWMI\obj\Debug\RegistryWMI.exe
+C:\Users\efortes\source\repos\RegistryWMI\RegistryWMI\obj\Debug\RegistryWMI.pdb
